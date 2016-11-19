@@ -17,3 +17,4 @@ github_username:  hyxos
 
 # Build settings
 markdown: kramdown
+permalink: pretty
